@@ -22,13 +22,19 @@ This repository documents my learning journey, hands-on practice, and progress t
 | 02 | [Networking Fundamentals](Daily-Logs/Day-02-Networking-Fundamentals.md) | ✅ Completed |
 | 03 | [Web Security](Daily-Logs/Day-03-Web-Security.md) | ✅ Completed |
 | 04 | Authentication & Access Control | 🔜 Upcoming |
-## 🛠️ Tools & Environment
 
-* Linux
-* Ubuntu (WSL)
-* VS Code
-* Git & GitHub
-* Burp Suite Community Edition
+## 📈 Skills Progress
+
+| Skill | Progress |
+|---|---|
+| Linux Fundamentals | 🟢 Learned |
+| File Permissions | 🟢 Learned |
+| Process Management | 🟢 Learned |
+| Networking Basics | 🟢 Learned |
+| DNS & HTTP/HTTPS | 🟢 Learned |
+| Web Security Fundamentals | 🟡 Learning |
+| Burp Suite | ⚪ Upcoming |
+| Penetration Testing | ⚪ Upcoming |
 
 ## 🏆 Certifications
 
