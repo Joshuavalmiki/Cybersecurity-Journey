@@ -16,13 +16,12 @@ This repository documents my learning journey, hands-on practice, and progress t
 
 ## 📚 Daily Learning Logs
 
-| Day | Topic                           |    Status   |
-| :-: | ------------------------------- | :---------: |
-|  01 | Linux Fundamentals              | ✅ Completed |
-|  02 | Networking Fundamentals         | ✅ Completed |
-|  03 | Web Security                    | ✅ Completed |
-|  04 | Authentication & Access Control | 🔜 Upcoming |
-
+| Day | Topic | Status |
+|:---:|---|:---:|
+| 01 | [Linux Fundamentals](Daily-Logs/Day-01-Linux-Fundamentals.md) | ✅ Completed |
+| 02 | [Networking Fundamentals](Daily-Logs/Day-02-Networking-Fundamentals.md) | ✅ Completed |
+| 03 | [Web Security](Daily-Logs/Day-03-Web-Security.md) | ✅ Completed |
+| 04 | Authentication & Access Control | 🔜 Upcoming |
 ## 🛠️ Tools & Environment
 
 * Linux
