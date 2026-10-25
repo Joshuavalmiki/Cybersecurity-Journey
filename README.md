@@ -9,10 +9,13 @@ This repository is a learning journal—not a claim of expertise. Notes and prog
 ## 🎯 Current Roadmap
 
 - ✅ TryHackMe **Pre Security** — completed
-- 🟡 TryHackMe **Cyber Security 101** — 29% at the last screenshot shared (25 Oct 2026)
-- ⏭️ TryHackMe **SOC Level 1** — 1% at the last screenshot shared (25 Oct 2026)
+- 🟡 TryHackMe **Cyber Security 101** — 29% (last manually confirmed 25 Oct 2026)
+- 🟡 TryHackMe **SOC Level 1** — 1% (last manually confirmed 25 Oct 2026)
 
-Progress percentages can change as I complete more rooms.
+The daily public-profile tracker records account-level statistics and publicly visible completed rooms. TryHackMe does not expose these learning-path percentages through the public profile data used by this tracker, so these percentages remain manually confirmed until a reliable source is available.
+
+- [Automated public progress snapshot](tryhackme-progress.json)
+- [Progress history](PROGRESS-HISTORY.md)
 
 ## 📚 Daily Learning Logs
 
