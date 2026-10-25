@@ -1,48 +1,57 @@
-# 🔐 Cybersecurity Journey
+# 🛡️ Cybersecurity Journey
 
-> Learning by doing. Building my cybersecurity skills one day at a time.
+> Learning by doing. Building practical skills one day at a time.
 
-Hi, I'm **Joshua**, an aspiring cybersecurity professional passionate about ethical hacking, penetration testing, and information security.
+Hi, I'm **Joshua Valmiki**, known online as **LOSERxTOBI**. I'm working toward my first role as an **entry-level SOC Level 1 Analyst** and documenting what I learn along the way.
 
-This repository documents my learning journey, hands-on practice, and progress toward becoming a cybersecurity professional.
+This repository is a learning journal—not a claim of expertise. Notes and progress are updated as I study and practise.
 
-## 🎯 Current Learning Focus
+## 🎯 Current Roadmap
 
-* Linux Fundamentals
-* Computer Networking
-* Web Security
-* Ethical Hacking
-* Penetration Testing
+- ✅ TryHackMe **Pre Security** — completed
+- 🟡 TryHackMe **Cyber Security 101** — 29% at the last screenshot shared (25 Oct 2026)
+- ⏭️ TryHackMe **SOC Level 1** — 1% at the last screenshot shared (25 Oct 2026)
+
+Progress percentages can change as I complete more rooms.
 
 ## 📚 Daily Learning Logs
 
 | Day | Topic | Status |
 |:---:|---|:---:|
-| 01 | [Linux Fundamentals](Daily-Logs/Day-01-Linux-Fundamentals.md) | ✅ Completed |
-| 02 | [Networking Fundamentals](Daily-Logs/Day-02-Networking-Fundamentals.md) | ✅ Completed |
-| 03 | [Web Security](Daily-Logs/Day-03-Web-Security.md) | ✅ Completed |
-| 04 | Authentication & Access Control | 🔜 Upcoming |
+| 01 | [Linux Fundamentals](Daily-Logs/Day-01-Linux-Fundamentals.md) | Completed |
+| 02 | [Networking Fundamentals](Daily-Logs/Day-02-Networking-Fundamentals.md) | Completed |
+| 03 | [Web Security](Daily-Logs/Day-03-Web-Security.md) | Completed |
+| 04 | Authentication & Access Control | Planned |
 
-## 📈 Skills Progress
+## 🧠 Topics I'm Studying
 
-| Skill | Progress |
-|---|---|
-| Linux Fundamentals | 🟢 Learned |
-| File Permissions | 🟢 Learned |
-| Process Management | 🟢 Learned |
-| Networking Basics | 🟢 Learned |
-| DNS & HTTP/HTTPS | 🟢 Learned |
-| Web Security Fundamentals | 🟡 Learning |
-| Burp Suite | ⚪ Upcoming |
-| Penetration Testing | ⚪ Upcoming |
+- Linux command-line fundamentals and permissions
+- Networking, DNS, TCP/IP, and HTTP/HTTPS
+- Web application security concepts
+- Windows and operating-system fundamentals
+- Python basics and Git/GitHub
+- SOC foundations: alert triage, log analysis, and incident response
 
-## 🏆 Certifications
+## 🧪 Next Practical Portfolio Goals
 
-* TryHackMe — Pre Security
+As I complete relevant labs, I plan to publish clearly scoped write-ups that include:
+- The scenario and objective
+- Evidence and commands used
+- Analysis and findings
+- Recommended response or remediation
+- What I learned and what I would investigate next
 
-## 🎯 Long-Term Goal
+Only completed work will be marked as completed. Lab work will be performed in authorized environments.
 
-Develop practical cybersecurity skills, build a strong portfolio, and work toward the OSCP certification.
+## 🔗 Links
+
+- [GitHub Profile](https://github.com/Joshuavalmiki)
+- [Portfolio Website](https://Joshuavalmiki.github.io/)
+- [TryHackMe Profile](https://tryhackme.com/p/LOSERxTOBI)
+
+## 🧭 Long-Term Vision
+
+My first milestone is to become job-ready for SOC L1. Over time, I also want to explore penetration testing, security architecture, and security leadership.
 
 ---
 
